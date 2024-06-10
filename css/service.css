@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.w1 {
+    margin: 0;
+    padding: 0;
+     background-image:linear-gradient(rgba(103,58,183,0.8), rgba(33,150,243,0.8)), url('/images/background\ image.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 450px;
+    
+}
+/*cards section*/
+.w {
+    margin: 0;
+    padding: 0;
+     /* background-image:linear-gradient(rgba(103,58,183,0.8), rgba(33,150,243,0.8)), url('/images/background\ image.jpg'); */
+    background-size: cover;
+    background-color: rgb(237,244,251);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 400px;
+    color:black;
+}
+/*part 3*/
+.e{
+    margin: 0;
+    padding: 0;
+     background-image:linear-gradient(rgba(103,58,183,0.8), rgba(33,150,243,0.8)), url('/images/background\ image.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 450px;
+    
+}
